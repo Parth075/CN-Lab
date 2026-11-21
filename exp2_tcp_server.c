@@ -5,7 +5,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 
-#define PORT (10000 + 279)   // Replace 'prn' with your PRN value
+#define PORT (10000 + 257)   // Replace 'prn' with your PRN value
 #define BUF_SIZE 1024
 
 int main()
